@@ -1,0 +1,23 @@
+name: example
+description: "Search Highlight Text Example."
+
+version: 1.0.0+1
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  flutter_highlight_search_text:
+    path: ../../flutter_highlight_search_text
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
