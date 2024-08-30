@@ -1,7 +1,7 @@
 name: flutter_highlight_search_text
 description: "This is a Simple Inherited Widget to highlight text in a search result, with custom highlight TextStyle.This package is perfect for building search functionalities where you want to draw attention to matched text within a list of results or any other use case where text highlighting is needed."
 version: 0.0.1
-homepage:
+homepage: https://github.com/mohit3111/flutter_highlight_search_text
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
